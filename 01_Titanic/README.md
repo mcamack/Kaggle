@@ -4,7 +4,8 @@
 
 ## Kaggle_Titanic_nn2.m
 * Uses trainscg to train with scaled conjugate gradient backpropagation
-* 1 hidden layer with 17 nodes  
+* 9 input features (played around with more of the 53 I made, but got worse performance)
+* 1 hidden layer with 17 nodes (this was the best number between underfitting and overfitting)
 ![Alt text](network.png?raw=true)
 * Training data is split into a train/validation/test ratio of 60/20/20
 
