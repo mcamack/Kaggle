@@ -1,4 +1,4 @@
 # Kaggle
 repo for public Kaggle competition code
 
-[Titanic](Titanic)
+[Titanic Submission](01_Titanic)
