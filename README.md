@@ -1,5 +1,4 @@
 # Kaggle
-Repo for public Kaggle competition code  
 [Kaggle Profile](https://www.kaggle.com/mcamack)
 
 [01_Titanic Submission](01_Titanic) (2056/5912 on [Leaderboard](https://www.kaggle.com/c/titanic/leaderboard))  
